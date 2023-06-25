@@ -1,0 +1,42 @@
+.search {
+  &__wrapper {
+    height: 3.6rem;
+    border: 1px solid #C1C1CB;
+    border-radius: 1rem;
+    overflow: hidden;
+    padding: .5rem 1rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+
+    input {
+      appearance: none;
+      border: none;
+      outline: none;
+      font-size: 1.6rem;
+      line-height: 2rem;
+      color: #333;
+      font-weight: 400;
+      background: transparent url("../../assets/icons/search-icon.svg") no-repeat 0 2rem;
+      width: 100%;
+
+      &::placeholder {
+        font-size: 1.6rem;
+        line-height: 2rem;
+        color: #9494A0;
+        font-weight: 400;
+      }
+    }
+
+
+
+    input[type="search"]::-webkit-search-decoration, 
+    input[type="search"]::-webkit-search-cancel-button,
+    input[type="search"]::-webkit-search-results-button,
+    input[type="search"]::-webkit-search-results-decoration {
+      -webkit-appearance:none;
+    }
+  }
+ 
+}

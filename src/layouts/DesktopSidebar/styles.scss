@@ -1,0 +1,16 @@
+.desktopSidebar {
+  &__wrapper {
+    width: 10rem;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    background-color: #F9FAFB;
+    border-top-right-radius: 1.5rem;
+    border-bottom-right-radius: 1.5rem;
+    padding: 2rem 0;
+  }
+}

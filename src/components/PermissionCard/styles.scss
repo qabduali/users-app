@@ -1,0 +1,23 @@
+.permissionCard {
+  border: 1px solid #C1C1CB;
+  border-radius: 1rem;
+  color: #9494A0;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  padding: .5rem 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+
+  &--mobile {
+    font-size: 1.2rem;
+    line-height: 1.2rem;
+    color: #9494A0;
+    border: 1px solid #C1C1CB;
+    border-radius: .5rem;
+    padding: .5rem;
+    width: fit-content;
+    white-space: nowrap;
+  }
+}

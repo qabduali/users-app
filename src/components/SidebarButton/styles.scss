@@ -1,0 +1,27 @@
+.sidebarButton {
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  
+  &__wrapper {
+    text-decoration: none;
+  }
+
+  &__icon {
+    &--mobile {
+      width: 2rem;
+      height: 2rem;
+    }
+  }
+
+  &__label {
+    color: #9494A0;
+    font-size: 1.6rem;
+    line-height: 2rem;
+    font-weight: 450;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+}

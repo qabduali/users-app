@@ -1,0 +1,37 @@
+[
+  {
+    "name": "ÐÑ€Ñ‚ÐµÐ¼ Ð˜Ð²Ð°Ð½Ð¾Ð²",
+    "email": "artem@gmail.com",
+    "permissions": [
+      "Ð‘Ð»Ð¾Ð³",
+      "ÐÐ½Ð°Ð»Ð¸Ñ‚Ð¸ÐºÐ°"
+    ],
+    "image": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+  },
+  {
+    "name": "Ð›ÐµÐ½Ð° ÐÐ¾Ð²Ð¸ÐºÐ¾Ð²Ð°",
+    "email": "lenkan@gmail.com",
+    "permissions": [
+      "ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¾Ñ€"
+    ],
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVyc29ufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+  },
+  {
+    "name": "ÐœÐ°ÐºÑÐ¸Ð¼ Ð˜Ð²Ð°Ð½Ð¾Ð²",
+    "email": "maksiim@gmail.com",
+    "permissions": [
+      "ÐÐºÑ†Ð¸Ð¸",
+      "ÐœÐ¾Ð´ÐµÑ€Ð°Ñ†Ð¸Ñ Ð¾Ð±ÑŠÑÐ²Ð»ÐµÐ½Ð¸Ð¹",
+      "Ð¢ÐµÑ…. Ð¿Ð¾Ð´Ð´ÐµÑ€Ð¶ÐºÐ°"
+    ],
+    "image": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?cs=srgb&dl=pexels-simon-robben-614810.jpg&fm=jpg"
+  },
+  {
+    "name": "ÐÐ¹Ð¶ÑƒÐ»Ð´Ñ‹Ð· ÐšÐ¾ÑˆÐºÐ¸Ð½Ð±Ð°Ð¹",
+    "email": "aizhzk@gmail.com",
+    "permissions": [
+      "ÐžÐ±Ñ€Ð°Ñ‰ÐµÐ½Ð¸Ðµ ÐºÐ»Ð¸ÐµÐ½Ñ‚Ð¾Ð²"
+    ],
+    "image": "https://gorodprizrak.com/wp-content/uploads/2021/01/346545.jpg"
+  }
+]

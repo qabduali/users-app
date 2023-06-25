@@ -1,0 +1,40 @@
+.input {
+  &__wrapper {
+    height: 5rem;
+    border: 1px solid #C1C1CB;
+    border-radius: 1rem;
+    overflow: hidden;
+    padding: .5rem 1rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    background-color: #fff;
+
+    input {
+      appearance: none;
+      border: none;
+      outline: none;
+      font-size: 1.6rem;
+      line-height: 2rem;
+      color: #333;
+      font-weight: 400;
+      width: 100%;
+
+      &::placeholder {
+        font-size: 1.6rem;
+        line-height: 2rem;
+        color: #9494A0;
+        font-weight: 400;
+      }
+    }
+    
+    input::-webkit-search-decoration, 
+    input::-webkit-search-cancel-button,
+    input::-webkit-search-results-button,
+    input::-webkit-search-results-decoration {
+      -webkit-appearance:none;
+    }
+  }
+ 
+}
